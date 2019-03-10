@@ -48,3 +48,16 @@ body{
 html{
 	scroll-behavior: smooth;
 }
+.carousel{
+	background: #512DA8;
+
+}
+.carousel-item{
+	height: 300px;
+}
+.carousel-item img{
+	min-height: 300px;
+	top: 0;
+	left: 0;
+	position: absolute;
+}
