@@ -61,3 +61,11 @@ html{
 	left: 0;
 	position: absolute;
 }
+#carouselButton{
+	right: 0;
+	bottom: 0;
+	position: absolute;
+}
+.carousel-control-next{
+	z-index: 0;
+}
