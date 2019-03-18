@@ -76,3 +76,19 @@ body{
 .carousel-control-next{
 	z-index: 0;
 }
+.modal-header {
+    background: $background-dark;
+    .close{
+        color: floralwhite;
+    }
+}
+
+
+.modal-body {
+    background: $background-pale;
+}
+.modal-title {
+    color: floralwhite;
+}
+
+
